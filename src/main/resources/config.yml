@@ -4,7 +4,7 @@
 ##########################################################################
 
 reload-permission: "basiccmd.admin.reload"
-admin-help-permission: "basiccmd.admin.reload"
+admin-help-permission: "basiccmd.admin.help"
 
 #############
 #  Discord  #
