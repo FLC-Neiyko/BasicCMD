@@ -5,6 +5,29 @@
 
 not-player-instance: "You must be a player to use this command!"
 no-permission: "&cYou don't have permission to do that!"
+reload: "&cReload complete in &b%timerMS% &cms!"
+reload-error: "&cA problem has occurred!"
+
+############
+#   Help   #
+############
+help:
+  admin:
+    - "&c╔════════════╗"
+    - "    &6BasicCMD Admin Help"
+    - "&c╚════════════╝"
+    - "&a/basiccmd &for &a/bcmd reload &e➨ &bReload the plugin."
+  classic:
+    - "&c╔═════════╗"
+    - "    &6BasicCMD Help"
+    - "&c╚═════════╝"
+    - "&a/discord &e➨ &bProvides the invitation link to discord."
+    - "&a/rules &e➨ &bDisplay the server's rules."
+    - "&a/staff &e➨ &bDisplay the staff members."
+    - "&a/teamspeak &e➨ &bDisplay the address of the teamspeak."
+    - "&a/contentcreator &e➨ &bDisplays the content creator of the server."
+    - "&a/bcmd help admin &e➨ &bDisplay the admin help."
+
 
 #############
 #  Discord  #

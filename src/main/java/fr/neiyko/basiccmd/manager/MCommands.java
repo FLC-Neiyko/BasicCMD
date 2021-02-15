@@ -13,5 +13,6 @@ public class MCommands {
         main.getCommand("contentcreator").setExecutor(new CContentCreator());
         main.getCommand("rules").setExecutor(new CRules());
         main.getCommand("staff").setExecutor(new CStaff());
+        main.getCommand("basiccmd").setExecutor(new CBasic());
     }
 }
