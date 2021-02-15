@@ -1,0 +1,49 @@
+##########################################################################
+#                BasicCMD by Neiyko - Configuration file                 #
+#                 Check frequently for plugin updates!                   #
+##########################################################################
+
+#############
+#  Discord  #
+#############
+discord:
+  enable: true
+  permission-enable: false
+  #If permission-enable: true
+  permission: "basiccmd.discord.use"
+
+#############
+#   Rules   #
+#############
+rules:
+  enable: true
+  permission-enable: false
+  #If permission-enable: true
+  permission: "basiccmd.rules.use"
+
+#############
+#   Staff   #
+#############
+staff:
+  enable: true
+  permission-enable: false
+  #If permission-enable: true
+  permission: "basiccmd.staff.use"
+
+#############
+# Teamspeak #
+#############
+teamspeak:
+  enable: true
+  permission-enable: false
+  #If permission-enable: true
+  permission: "basiccmd.teamspeak.use"
+
+#####################
+#  Content Creator  #
+#####################
+contentcreator:
+  enable: true
+  permission-enable: false
+  #If permission-enable: true
+  permission: "basiccmd.contentcreator.use"

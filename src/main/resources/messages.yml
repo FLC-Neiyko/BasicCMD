@@ -1,0 +1,64 @@
+##########################################################################
+#                  BasicCMD by Neiyko - Messages file                    #
+#                 Check frequently for plugin updates!                   #
+##########################################################################
+
+not-player-instance: "You must be a player to use this command!"
+no-permission: "&cYou don't have permission to do that!"
+
+#############
+#  Discord  #
+#############
+discord:
+  discord:
+    - "&c╔══════════════════╗"
+    - "                 &6Discord"
+    - "   &bhttps://discord.gg/C8eKKHuEKf"
+    - "&c╚══════════════════╝"
+
+#############
+#   Rules   #
+#############
+rules:
+  rules:
+    - "&c╔══════════╗"
+    - "          &6Rules"
+    - "&c╚══════════╝"
+    - "&a1. &bBe respectful"
+    - "&a2. &bBe ethical"
+    - "&a3. &bUse common sense"
+
+#############
+#   Staff   #
+#############
+staff:
+  staff:
+    - "&c╔══════════╗"
+    - "          &6Staff"
+    - "&c╚══════════╝"
+    - "&aOwner &e➨ &bNeiyko"
+    - "&aAdmin &e➨ &bNeiyko"
+    - "&aDeveloper &e➨ &bNeiyko"
+
+#############
+# Teamspeak #
+#############
+teamspeak:
+  teamspeak:
+    - "&c╔════════╗"
+    - "     &6Teamspeak"
+    - "    &bmyserver.ts"
+    - "&c╚════════╝"
+
+#####################
+#  Content Creator  #
+#####################
+contentcreator:
+  contentcreator:
+    - "&c╔═══════════╗"
+    - "    &6Content creator"
+    - "    &6Youtube &b/ &6Twitch"
+    - "&c╚═══════════╝"
+    - ""
+    - "&8[&5Twitch&8] &aNeiyko &e➨ &bhttps://www.twitch.tv/neiyko_tv"
+    - "&8[&4You&ftube&8] &aThebot &e➨ &bhttps://www.youtube.com/c/Thebot"

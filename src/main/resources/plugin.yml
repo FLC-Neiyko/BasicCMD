@@ -1,0 +1,22 @@
+name: BasicCMD
+version: 1.0.0
+main: fr.neiyko.basiccmd.BasicCMD
+authors: [ Neiyko ]
+description: A simple plugin
+commands:
+  discord:
+    description: A simple command
+  teamspeak:
+    description: A simple command
+    aliases:
+      - ts
+  contentcreator:
+    description: A simple command
+  rules:
+    description: A simple command
+  staff:
+    description: A simple command
+  basiccmd:
+    description: Admin command
+    aliases:
+      - bcmd
